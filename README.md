@@ -26,21 +26,22 @@ This project, presented by Gajarajan V Y, demonstrates a data-driven approach to
 3. Multivariate Findings: 54 statistically significant patterns
 
 ## Key Visuals
-### Title Slide
-![Title Slide](https://drive.google.com/file/d/1IjDfrfiU2I8B0Vf2m0I66dxxSDHu5qKJ/view?usp=sharing)
 
+### Title Slide
+![Title Slide](https://drive.google.com/uc?export=view&id=1IjDfrfiU2I8B0Vf2m0I66dxxSDHu5qKJ)
 
 ### Airline Data Analysis Process
-![Airline Data Analysis Process](https://drive.google.com/file/d/1AlytEE9Z-9tba1SmB9c6LzUevkOxOgOL/view?usp=sharing)
+![Airline Data Analysis Process](https://drive.google.com/uc?export=view&id=1AlytEE9Z-9tba1SmB9c6LzUevkOxOgOL)
 
 ### Key Outcomes
-![Key Outcomes](https://drive.google.com/file/d/1_vqn2Fwg-PDoU2UZS9oVR_v9K5u2TxxZ/view?usp=sharing)
+![Key Outcomes](https://drive.google.com/uc?export=view&id=1_vqn2Fwg-PDoU2UZS9oVR_v9K5u2TxxZ)
 
 ### Strategic Initiatives
-![Strategic Initiatives](https://drive.google.com/file/d/1GUbse-IJ6pvFdqkw6_OLw0SQsOvkoO7o/view?usp=sharing)
+![Strategic Initiatives](https://drive.google.com/uc?export=view&id=1GUbse-IJ6pvFdqkw6_OLw0SQsOvkoO7o)
 
 ### 9-Month Rollout Plan
-![9-Month Rollout Plan](https://drive.google.com/file/d/1u20GH0QAuKfONLP4Vw-p4f9A1aio8pdz/view?usp=sharing)
+![9-Month Rollout Plan](https://drive.google.com/uc?export=view&id=1u20GH0QAuKfONLP4Vw-p4f9A1aio8pdz)
+
 
 ## Key Outcomes
 - Identified the top five insights with the strongest statistical support, practical relevance, and clear interpretability:
